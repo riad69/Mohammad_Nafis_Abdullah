@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Table from "./table/table"
+import Table from "./table/Table"
 import ChartData from "./chart/ChartData";
 
 function App() {
